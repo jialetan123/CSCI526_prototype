@@ -1,1 +1,0 @@
-# CSCI526_prototype
